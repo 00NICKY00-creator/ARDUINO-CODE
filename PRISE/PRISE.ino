@@ -7,11 +7,11 @@ const char* ssid = "nicki";
 const char* password = "123456789";
 const char* mqtt_server = "192.168.0.101"; // Adresse IP de votre ordinateur où Mosquitto est installé
 */
-
+/*
 const char* ssid = "Airbox-B7CF";
 const char* password = "q6WFYUGhXY3Q";
 const char* mqtt_server = "192.168.1.25"; 
-
+*/
 const char* voltage_topic = "home/esp32/voltage";
 const char* current_topic = "home/esp32/current";
 const char* power_topic = "home/esp32/power";
